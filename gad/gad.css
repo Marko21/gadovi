@@ -1,0 +1,93 @@
+header img {
+	height: 65px;
+	width: 370px;
+	margin-top: -20px;
+	float: left;
+}
+header {
+	color: gold;
+}
+li {
+	display: inline;
+	padding: 27px;
+	font-family: 'Shadows Into Light', cursive;
+	
+}
+
+body {
+	padding-left: 200px;
+	padding-right: 200px;
+	text-align: center;
+	background:url("Dark-Nature-Black-Background-HD-Wallpaper.jpg") center center fixed no-repeat;
+}
+article.prvi img {
+	height: 250px;
+	width: 300px;
+	border: 5px solid darkslategray;
+}
+article.prvi {
+	position: absolute;
+	float: left;
+	color: gold;
+	text-align: left;
+	width: 300px;
+	padding: 5px;
+}
+article.prvi h3 {
+	margin-top: -5px;
+}
+article.drugi img {
+	height: 250px;
+	width: 300px;
+	border: 5px solid darkslategray;
+}
+article.drugi {
+	position: relative;
+	float: left;
+	color: gold;
+	text-align: left;
+	width: 300px;
+	padding: 5px;
+	margin-left: -60px;
+}
+article.drugi h3 {
+	margin-top: -5px;
+}
+article.treci img {
+	height: 250px;
+	width: 300px;
+	border: 5px solid darkslategray;
+}
+article.treci {
+	position: relative;
+	float: left;
+	color: gold;
+	text-align: left;
+	width: 300px;
+	padding: 5px;
+	margin-left: -2px;
+}
+article.treci h3 {
+	margin-top: -5px;
+}
+iframe {
+	float: left;
+	border: 5px solid darkslategray;
+
+}
+article.cetvrti {
+	text-align: left;
+	color: gold;
+}
+footer {
+	color: gold;
+}
+footer h1 {
+	font-family: 'Bangers', cursive;
+}
+footer li {
+	padding: 15px;
+}
+footer p {
+	font-size: 13px;
+}
